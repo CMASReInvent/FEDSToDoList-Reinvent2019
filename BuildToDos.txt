@@ -1,3 +1,7 @@
 # What is this?
 Things we should implement to make our build better.
 
+# Cloudformation
+- cfn-lint
+- TaskCat
+- Use VSCode Plugins (vscode-cfn-lint, aws tools for VSCode)
